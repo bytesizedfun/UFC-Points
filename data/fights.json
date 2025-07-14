@@ -1,0 +1,8 @@
+{
+  "event": "UFC Fight Night: July 19",
+  "fights": [
+    { "id": 1, "f1": "Fighter A", "f2": "Fighter B", "underdog": "Fighter B" },
+    { "id": 2, "f1": "Fighter C", "f2": "Fighter D", "underdog": "Fighter D" }
+  ],
+  "results": []
+}
